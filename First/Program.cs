@@ -1,2 +1,12 @@
-﻿
-Console.WriteLine("Hello, World!");
+﻿namespace HelloWurld
+{
+    internal class HelloWurld
+    {
+        static void Main(string[] args)
+        { 
+
+        Console.WriteLine("Hello, World!");
+
+}
+}
+}
